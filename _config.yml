@@ -1,0 +1,28 @@
+name: RudolphRegter
+favicon: null
+layout_spectrum: 0.2604813009966165
+typography_spectrum: 0.46466739545576274
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.9030861149076372
+  lightness: 0.5912053354550153
+  saturation: 0.6165791449602693
+  rhythmicContrast: 0.04863445274531841
+purpose: []
